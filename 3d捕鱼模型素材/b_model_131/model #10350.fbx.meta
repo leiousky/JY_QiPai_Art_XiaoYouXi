@@ -1,0 +1,201 @@
+fileFormatVersion: 2
+guid: 583fae88eeed2a54d85c21b17b0b665b
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Anm_131
+    100002: cjb_131
+    100004: cjb_131_0
+    100006: fish_131
+    100008: joint26
+    100010: joint27
+    100012: joint28
+    100014: joint29
+    100016: joint30
+    100018: joint31
+    100020: joint32
+    100022: joint33
+    100024: joint34
+    100026: joint35
+    100028: joint36
+    100030: joint37
+    100032: joint38
+    100034: joint39
+    100036: joint40
+    100038: joint41
+    100040: joint42
+    100042: joint43
+    100044: joint44
+    100046: joint45
+    100048: joint46
+    100050: joint47
+    100052: joint48
+    100054: joint51
+    100056: joint53
+    100058: joint54
+    100060: joint55
+    100062: joint56
+    100064: joint57
+    100066: joint58
+    100068: joint59
+    100070: joint60
+    100072: joint61
+    100074: joint62
+    100076: joint63
+    100078: joint64
+    100080: joint65
+    100082: joint66
+    100084: joint67
+    100086: joint68
+    100088: joint69
+    100090: joint70
+    100092: joint71
+    100094: joint72
+    100096: joint73
+    100098: L_eye1
+    100100: model
+    100102: //RootNode
+    100104: R_eye1
+    100106: root
+    400000: Anm_131
+    400002: cjb_131
+    400004: cjb_131_0
+    400006: fish_131
+    400008: joint26
+    400010: joint27
+    400012: joint28
+    400014: joint29
+    400016: joint30
+    400018: joint31
+    400020: joint32
+    400022: joint33
+    400024: joint34
+    400026: joint35
+    400028: joint36
+    400030: joint37
+    400032: joint38
+    400034: joint39
+    400036: joint40
+    400038: joint41
+    400040: joint42
+    400042: joint43
+    400044: joint44
+    400046: joint45
+    400048: joint46
+    400050: joint47
+    400052: joint48
+    400054: joint51
+    400056: joint53
+    400058: joint54
+    400060: joint55
+    400062: joint56
+    400064: joint57
+    400066: joint58
+    400068: joint59
+    400070: joint60
+    400072: joint61
+    400074: joint62
+    400076: joint63
+    400078: joint64
+    400080: joint65
+    400082: joint66
+    400084: joint67
+    400086: joint68
+    400088: joint69
+    400090: joint70
+    400092: joint71
+    400094: joint72
+    400096: joint73
+    400098: L_eye1
+    400100: model
+    400102: //RootNode
+    400104: R_eye1
+    400106: root
+    2100000: cjb_131
+    4300000: cjb_131_0
+    7400000: swim
+    7400002: die
+    7400004: blink
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: cjb_131_0
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
